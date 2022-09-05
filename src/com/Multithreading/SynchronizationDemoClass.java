@@ -4,12 +4,15 @@ class Display {
 
     public  void wish(String Name) {
 
-        for (int i = 0 ; i<=10;i++){
+        synchronized (this){
+        for (int i = 0 ; i<=10;i++) {
             System.out.print("good morning : ");
             try {
                 Thread.sleep(2000);
-            } catch (InterruptedException e) {}
+            } catch (InterruptedException e) {
+            }
             System.out.println(Name);
+        }
 
 
         }
@@ -33,6 +36,13 @@ class  SynchrozinationDemo{
     public static void main(String[] args) {
         Display d = new Display();
         Mythread t1= new Mythread(d,"Dhoni");
+
+        Mythread t2= new Mythread(d,"Yuvi");
+
+
         t1.start();
+
+        t2.start();
+
     }
 }
