@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa74d634-e7b3-40f5-9c51-eceda46110b4" name="Changes" comment="day 4">
-      <change afterPath="$PROJECT_DIR$/src/com/Multithreading/Inter_thread_Communicatio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Multithreading/SynchronizationBloavck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Multithreading/SynchronizedDemoClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Multithreading/SynchroniztionDemoclass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Multithreading/wait_And_notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Encapsulation/EncapuslationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Inheritence/intheritence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Polymorphism/CompilrtimePolymorphicsm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Polymorphism/RuntimePolymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Multithreading/SynchronizationDemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Multithreading/SynchronizationDemoClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa74d634-e7b3-40f5-9c51-eceda46110b4" name="Changes" comment="day 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661847754674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 4">
+      <created>1662377266203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662377266203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
