@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 class A{
 
-}
+    }
+
+
 class  B extends A{
 
     int a =45;
