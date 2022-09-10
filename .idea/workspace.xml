@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa74d634-e7b3-40f5-9c51-eceda46110b4" name="Changes" comment="day 4">
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/InnerclassExamplle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/InnerclassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/declarationsfrominnerclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/examples1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/innerclassfromoutside.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/localMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/nestedclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/outerclassMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/staticvariableinnerclaass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Abstraction/AbstractionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Constructors/ConsttructorExample.java" afterDir="false" />
+    <list default="true" id="fa74d634-e7b3-40f5-9c51-eceda46110b4" name="Changes" comment="day 7">
+      <change afterPath="$PROJECT_DIR$/src/com/Collection_FrameWork/Collections/Collections_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection_FrameWork/Collections/Need_Of_Collections_Framework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection_FrameWork/List/LIstDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection_FrameWork/List/insertionOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/aanonymous/annonymous2ndexamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/aanonymous/annonymous3rsexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/serialization/Deserialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/serialization/serializationnExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oops/Inheritence/intheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oops/Inheritence/intheritence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InnerClass/aanonymous/annonymousinnerclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/InnerClass/aanonymous/annonymousinnerclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,12 @@
     &quot;last_opened_file_path&quot;: &quot;C:/softwares/Java Full Stack/java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.InnerClass.aanonymous.annonymousinnerclass" />
+      <recent name="com.InnerClass.aanonymous" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662379906855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day 7">
+      <created>1662724359161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662724359161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day  1" />
     <MESSAGE value="day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 4" />
+    <MESSAGE value="day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 7" />
   </component>
 </project>
