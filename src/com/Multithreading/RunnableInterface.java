@@ -13,7 +13,9 @@ class B {
 public class RunnableInterface {
 
     public static void main(String[] args) {
-        B shubham = new B();
-        shubham.sanju();
+        B b = new B();
+        b.sanju();
+        a A = new a();
+        A.test();
     }
 }
